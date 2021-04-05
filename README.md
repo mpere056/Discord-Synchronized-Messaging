@@ -11,7 +11,7 @@ Next, run the script for each bot with:<br/>
 ```py
    python3 asciivideo.py TOKEN
 ```
-Since the token is an argument you can pass into the command line, to run three bots, you could do:<br/>
+Since the token is an argument you can pass into the command line, to run three bots you could do:<br/>
 ```py
    python3 asciivideo.py TOKEN1 & python3 asciivideo.py TOKEN2 & python3 asciivideo.py TOKEN3
 ```
