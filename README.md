@@ -1,7 +1,7 @@
 # Discord-Synchronized-Messaging
 
 ## What is it?
-I created a simple system for Discord bots to send messages one after eachother in an organized sequence.
+I created a simple system for Discord bots to send messages one after eachother in an organized sequence.\n
 In this case, I used it to play a series of ascii frames grabbed from a text file.
 
 ## How to use it?
